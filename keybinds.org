@@ -1,0 +1,13 @@
+A lot of stuff is sort of like in vim (because of evil mode) but a lot of stuff is also verry different, so ill have to learn that :(
+* Buffers
+- create or find a buffer with "C-x b"
+- open buffer in a new window: "C-x 4 b"
+- select previous, next buffer with "C-x Left or Right"
+
+- list buffers "C-x C-b"
+
+* Projects
+- switch project "C-c p"
+- project find file: "C-c p f"
+- grep over project "C-c p s g"
+
